@@ -27,6 +27,7 @@
         <li>Less: O Less é um pré-processador CSS que adiciona recursos extras ao CSS, como variáveis, funções e mixins. Utilizamos o Less para escrever o CSS do projeto de forma mais organizada e reutilizável.</li>
         <li>Vercel: A página do Sorteador Grunt está hospedada no Vercel, uma plataforma de hospedagem e implantação de sites. Através do Vercel, conseguimos disponibilizar a página de forma simples e rápida.</li>
     </ul>
+    
 # 🎨 Pré-visualização :
 
 ## Apresentação do Sorteador:
