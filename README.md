@@ -28,6 +28,7 @@
         <li>Vercel: A página do Sorteador Grunt está hospedada no Vercel, uma plataforma de hospedagem e implantação de sites. Através do Vercel, conseguimos disponibilizar a página de forma simples e rápida.</li>
     </ul>
 # 🎨 Pré-visualização :
+
 ## Apresentação do Sorteador:
 <img src="https://user-images.githubusercontent.com/123211425/239539024-81e5bf05-7ecd-4148-8c76-2f92af342704.png" alt="">
 
